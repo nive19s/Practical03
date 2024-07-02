@@ -1,6 +1,6 @@
 object Question03{
     def findMean(num1: Int,num2: Int): Double={
-       val average =( num1 + num2 )/2.0
+       val average =( num1 + num2 )/2
        average
     }
 
